@@ -1,3 +1,6 @@
 # githubPractise
 add some featres
 1 add payment gatway
+
+add frontend there 
+and some feautres of ui
